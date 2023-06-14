@@ -1,0 +1,10 @@
+C:\Users\tpdlf\source\repos\Sosil Project\Sosil_Server\bin\Debug\Sosil_Server.exe.config
+C:\Users\tpdlf\source\repos\Sosil Project\Sosil_Server\bin\Debug\Sosil_Server.exe
+C:\Users\tpdlf\source\repos\Sosil Project\Sosil_Server\bin\Debug\Sosil_Server.pdb
+C:\Users\tpdlf\source\repos\Sosil Project\Sosil_Server\obj\Debug\Sosil_Server.Server.resources
+C:\Users\tpdlf\source\repos\Sosil Project\Sosil_Server\obj\Debug\Sosil_Server.Properties.Resources.resources
+C:\Users\tpdlf\source\repos\Sosil Project\Sosil_Server\obj\Debug\Sosil_Server.csproj.GenerateResource.cache
+C:\Users\tpdlf\source\repos\Sosil Project\Sosil_Server\obj\Debug\Sosil_Server.csproj.CoreCompileInputs.cache
+C:\Users\tpdlf\source\repos\Sosil Project\Sosil_Server\obj\Debug\Sosil_Server.exe
+C:\Users\tpdlf\source\repos\Sosil Project\Sosil_Server\obj\Debug\Sosil_Server.pdb
+C:\Users\tpdlf\source\repos\Sosil Project\Sosil_Server\obj\Debug\Sosil_Server.csprojAssemblyReference.cache
