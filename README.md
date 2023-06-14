@@ -1,2 +1,3 @@
 # 3_3_ChatProject
-Benchmark PC Kakaotalk program. Using C# to make chatting program
+A program made by benchmarking PC Kakao Talk. 
+The goal was to store member information in a local database and chat with members 
