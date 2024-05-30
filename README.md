@@ -11,7 +11,9 @@
 
 #### 메인 페이지
 ![image](https://github.com/sailer10/3_3_ChatProject/assets/80940663/d074e6d6-faea-4856-b1c5-e2e497ad7844)
+&nbsp; 
 ![image](https://github.com/sailer10/3_3_ChatProject/assets/80940663/6a5a8dc6-3ab2-4463-abd5-5108711811e4)
+&nbsp; 
 ![image](https://github.com/sailer10/3_3_ChatProject/assets/80940663/e9166e6a-fabb-4de4-8695-ceb4aa0cec55)
 
 ### 서버
